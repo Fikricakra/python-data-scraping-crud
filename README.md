@@ -53,21 +53,7 @@ Data yang diambil:
 
 ---
 
-## 📂 Struktur Project
-
-scraping.py → proses scraping data
-
-crud.py → fitur CRUD
-
-countries.json → hasil data JSON
-
-countries.csv → hasil data CSV
-
-
----
-
 ## ▶️ Cara Menjalankan
-
 ### 1. Install dependency
 ```
 pip install requests beautifulsoup4
@@ -80,10 +66,8 @@ python scraping.py
 ```
 python crud.py
 ```
-📊 Output
-
+## 📊 Output
 Program menghasilkan:
-
 - countries.json (format JSON)
 - countries.csv (format CSV)
 
