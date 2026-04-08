@@ -1,0 +1,1502 @@
+[
+    {
+        "negara": "Andorra",
+        "ibu_kota": "Andorra la Vella",
+        "populasi": "84000",
+        "luas": "468.0"
+    },
+    {
+        "negara": "United Arab Emirates",
+        "ibu_kota": "Abu Dhabi",
+        "populasi": "4975593",
+        "luas": "82880.0"
+    },
+    {
+        "negara": "Afghanistan",
+        "ibu_kota": "Kabul",
+        "populasi": "29121286",
+        "luas": "647500.0"
+    },
+    {
+        "negara": "Antigua and Barbuda",
+        "ibu_kota": "St. John's",
+        "populasi": "86754",
+        "luas": "443.0"
+    },
+    {
+        "negara": "Anguilla",
+        "ibu_kota": "The Valley",
+        "populasi": "13254",
+        "luas": "102.0"
+    },
+    {
+        "negara": "Albania",
+        "ibu_kota": "Tirana",
+        "populasi": "2986952",
+        "luas": "28748.0"
+    },
+    {
+        "negara": "Armenia",
+        "ibu_kota": "Yerevan",
+        "populasi": "2968000",
+        "luas": "29800.0"
+    },
+    {
+        "negara": "Angola",
+        "ibu_kota": "Luanda",
+        "populasi": "13068161",
+        "luas": "1246700.0"
+    },
+    {
+        "negara": "Antarctica",
+        "ibu_kota": "None",
+        "populasi": "0",
+        "luas": "1.4E7"
+    },
+    {
+        "negara": "Argentina",
+        "ibu_kota": "Buenos Aires",
+        "populasi": "41343201",
+        "luas": "2766890.0"
+    },
+    {
+        "negara": "American Samoa",
+        "ibu_kota": "Pago Pago",
+        "populasi": "57881",
+        "luas": "199.0"
+    },
+    {
+        "negara": "Austria",
+        "ibu_kota": "Vienna",
+        "populasi": "8205000",
+        "luas": "83858.0"
+    },
+    {
+        "negara": "Australia",
+        "ibu_kota": "Canberra",
+        "populasi": "21515754",
+        "luas": "7686850.0"
+    },
+    {
+        "negara": "Aruba",
+        "ibu_kota": "Oranjestad",
+        "populasi": "71566",
+        "luas": "193.0"
+    },
+    {
+        "negara": "Åland",
+        "ibu_kota": "Mariehamn",
+        "populasi": "26711",
+        "luas": "1580.0"
+    },
+    {
+        "negara": "Azerbaijan",
+        "ibu_kota": "Baku",
+        "populasi": "8303512",
+        "luas": "86600.0"
+    },
+    {
+        "negara": "Bosnia and Herzegovina",
+        "ibu_kota": "Sarajevo",
+        "populasi": "4590000",
+        "luas": "51129.0"
+    },
+    {
+        "negara": "Barbados",
+        "ibu_kota": "Bridgetown",
+        "populasi": "285653",
+        "luas": "431.0"
+    },
+    {
+        "negara": "Bangladesh",
+        "ibu_kota": "Dhaka",
+        "populasi": "156118464",
+        "luas": "144000.0"
+    },
+    {
+        "negara": "Belgium",
+        "ibu_kota": "Brussels",
+        "populasi": "10403000",
+        "luas": "30510.0"
+    },
+    {
+        "negara": "Burkina Faso",
+        "ibu_kota": "Ouagadougou",
+        "populasi": "16241811",
+        "luas": "274200.0"
+    },
+    {
+        "negara": "Bulgaria",
+        "ibu_kota": "Sofia",
+        "populasi": "7148785",
+        "luas": "110910.0"
+    },
+    {
+        "negara": "Bahrain",
+        "ibu_kota": "Manama",
+        "populasi": "738004",
+        "luas": "665.0"
+    },
+    {
+        "negara": "Burundi",
+        "ibu_kota": "Bujumbura",
+        "populasi": "9863117",
+        "luas": "27830.0"
+    },
+    {
+        "negara": "Benin",
+        "ibu_kota": "Porto-Novo",
+        "populasi": "9056010",
+        "luas": "112620.0"
+    },
+    {
+        "negara": "Saint Barthélemy",
+        "ibu_kota": "Gustavia",
+        "populasi": "8450",
+        "luas": "21.0"
+    },
+    {
+        "negara": "Bermuda",
+        "ibu_kota": "Hamilton",
+        "populasi": "65365",
+        "luas": "53.0"
+    },
+    {
+        "negara": "Brunei",
+        "ibu_kota": "Bandar Seri Begawan",
+        "populasi": "395027",
+        "luas": "5770.0"
+    },
+    {
+        "negara": "Bolivia",
+        "ibu_kota": "Sucre",
+        "populasi": "9947418",
+        "luas": "1098580.0"
+    },
+    {
+        "negara": "Bonaire",
+        "ibu_kota": "Kralendijk",
+        "populasi": "18012",
+        "luas": "328.0"
+    },
+    {
+        "negara": "Brazil",
+        "ibu_kota": "Brasília",
+        "populasi": "201103330",
+        "luas": "8511965.0"
+    },
+    {
+        "negara": "Bahamas",
+        "ibu_kota": "Nassau",
+        "populasi": "301790",
+        "luas": "13940.0"
+    },
+    {
+        "negara": "Bhutan",
+        "ibu_kota": "Thimphu",
+        "populasi": "699847",
+        "luas": "47000.0"
+    },
+    {
+        "negara": "Bouvet Island",
+        "ibu_kota": "None",
+        "populasi": "0",
+        "luas": "49.0"
+    },
+    {
+        "negara": "Botswana",
+        "ibu_kota": "Gaborone",
+        "populasi": "2029307",
+        "luas": "600370.0"
+    },
+    {
+        "negara": "Belarus",
+        "ibu_kota": "Minsk",
+        "populasi": "9685000",
+        "luas": "207600.0"
+    },
+    {
+        "negara": "Belize",
+        "ibu_kota": "Belmopan",
+        "populasi": "314522",
+        "luas": "22966.0"
+    },
+    {
+        "negara": "Canada",
+        "ibu_kota": "Ottawa",
+        "populasi": "33679000",
+        "luas": "9984670.0"
+    },
+    {
+        "negara": "Cocos [Keeling] Islands",
+        "ibu_kota": "West Island",
+        "populasi": "628",
+        "luas": "14.0"
+    },
+    {
+        "negara": "Democratic Republic of the Congo",
+        "ibu_kota": "Kinshasa",
+        "populasi": "70916439",
+        "luas": "2345410.0"
+    },
+    {
+        "negara": "Central African Republic",
+        "ibu_kota": "Bangui",
+        "populasi": "4844927",
+        "luas": "622984.0"
+    },
+    {
+        "negara": "Republic of the Congo",
+        "ibu_kota": "Brazzaville",
+        "populasi": "3039126",
+        "luas": "342000.0"
+    },
+    {
+        "negara": "Switzerland",
+        "ibu_kota": "Bern",
+        "populasi": "7581000",
+        "luas": "41290.0"
+    },
+    {
+        "negara": "Ivory Coast",
+        "ibu_kota": "Yamoussoukro",
+        "populasi": "21058798",
+        "luas": "322460.0"
+    },
+    {
+        "negara": "Cook Islands",
+        "ibu_kota": "Avarua",
+        "populasi": "21388",
+        "luas": "240.0"
+    },
+    {
+        "negara": "Chile",
+        "ibu_kota": "Santiago",
+        "populasi": "16746491",
+        "luas": "756950.0"
+    },
+    {
+        "negara": "Cameroon",
+        "ibu_kota": "Yaoundé",
+        "populasi": "19294149",
+        "luas": "475440.0"
+    },
+    {
+        "negara": "China",
+        "ibu_kota": "Beijing",
+        "populasi": "1330044000",
+        "luas": "9596960.0"
+    },
+    {
+        "negara": "Colombia",
+        "ibu_kota": "Bogotá",
+        "populasi": "47790000",
+        "luas": "1138910.0"
+    },
+    {
+        "negara": "Costa Rica",
+        "ibu_kota": "San José",
+        "populasi": "4516220",
+        "luas": "51100.0"
+    },
+    {
+        "negara": "Cuba",
+        "ibu_kota": "Havana",
+        "populasi": "11423000",
+        "luas": "110860.0"
+    },
+    {
+        "negara": "Cape Verde",
+        "ibu_kota": "Praia",
+        "populasi": "508659",
+        "luas": "4033.0"
+    },
+    {
+        "negara": "Curacao",
+        "ibu_kota": "Willemstad",
+        "populasi": "141766",
+        "luas": "444.0"
+    },
+    {
+        "negara": "Christmas Island",
+        "ibu_kota": "Flying Fish Cove",
+        "populasi": "1500",
+        "luas": "135.0"
+    },
+    {
+        "negara": "Cyprus",
+        "ibu_kota": "Nicosia",
+        "populasi": "1102677",
+        "luas": "9250.0"
+    },
+    {
+        "negara": "Czech Republic",
+        "ibu_kota": "Prague",
+        "populasi": "10476000",
+        "luas": "78866.0"
+    },
+    {
+        "negara": "Germany",
+        "ibu_kota": "Berlin",
+        "populasi": "81802257",
+        "luas": "357021.0"
+    },
+    {
+        "negara": "Djibouti",
+        "ibu_kota": "Djibouti",
+        "populasi": "740528",
+        "luas": "23000.0"
+    },
+    {
+        "negara": "Denmark",
+        "ibu_kota": "Copenhagen",
+        "populasi": "5484000",
+        "luas": "43094.0"
+    },
+    {
+        "negara": "Dominica",
+        "ibu_kota": "Roseau",
+        "populasi": "72813",
+        "luas": "754.0"
+    },
+    {
+        "negara": "Dominican Republic",
+        "ibu_kota": "Santo Domingo",
+        "populasi": "9823821",
+        "luas": "48730.0"
+    },
+    {
+        "negara": "Algeria",
+        "ibu_kota": "Algiers",
+        "populasi": "34586184",
+        "luas": "2381740.0"
+    },
+    {
+        "negara": "Ecuador",
+        "ibu_kota": "Quito",
+        "populasi": "14790608",
+        "luas": "283560.0"
+    },
+    {
+        "negara": "Estonia",
+        "ibu_kota": "Tallinn",
+        "populasi": "1291170",
+        "luas": "45226.0"
+    },
+    {
+        "negara": "Egypt",
+        "ibu_kota": "Cairo",
+        "populasi": "80471869",
+        "luas": "1001450.0"
+    },
+    {
+        "negara": "Western Sahara",
+        "ibu_kota": "Laâyoune / El Aaiún",
+        "populasi": "273008",
+        "luas": "266000.0"
+    },
+    {
+        "negara": "Eritrea",
+        "ibu_kota": "Asmara",
+        "populasi": "5792984",
+        "luas": "121320.0"
+    },
+    {
+        "negara": "Spain",
+        "ibu_kota": "Madrid",
+        "populasi": "46505963",
+        "luas": "504782.0"
+    },
+    {
+        "negara": "Ethiopia",
+        "ibu_kota": "Addis Ababa",
+        "populasi": "88013491",
+        "luas": "1127127.0"
+    },
+    {
+        "negara": "Finland",
+        "ibu_kota": "Helsinki",
+        "populasi": "5244000",
+        "luas": "337030.0"
+    },
+    {
+        "negara": "Fiji",
+        "ibu_kota": "Suva",
+        "populasi": "875983",
+        "luas": "18270.0"
+    },
+    {
+        "negara": "Falkland Islands",
+        "ibu_kota": "Stanley",
+        "populasi": "2638",
+        "luas": "12173.0"
+    },
+    {
+        "negara": "Micronesia",
+        "ibu_kota": "Palikir",
+        "populasi": "107708",
+        "luas": "702.0"
+    },
+    {
+        "negara": "Faroe Islands",
+        "ibu_kota": "Tórshavn",
+        "populasi": "48228",
+        "luas": "1399.0"
+    },
+    {
+        "negara": "France",
+        "ibu_kota": "Paris",
+        "populasi": "64768389",
+        "luas": "547030.0"
+    },
+    {
+        "negara": "Gabon",
+        "ibu_kota": "Libreville",
+        "populasi": "1545255",
+        "luas": "267667.0"
+    },
+    {
+        "negara": "United Kingdom",
+        "ibu_kota": "London",
+        "populasi": "62348447",
+        "luas": "244820.0"
+    },
+    {
+        "negara": "Grenada",
+        "ibu_kota": "St. George's",
+        "populasi": "107818",
+        "luas": "344.0"
+    },
+    {
+        "negara": "Georgia",
+        "ibu_kota": "Tbilisi",
+        "populasi": "4630000",
+        "luas": "69700.0"
+    },
+    {
+        "negara": "French Guiana",
+        "ibu_kota": "Cayenne",
+        "populasi": "195506",
+        "luas": "91000.0"
+    },
+    {
+        "negara": "Guernsey",
+        "ibu_kota": "St Peter Port",
+        "populasi": "65228",
+        "luas": "78.0"
+    },
+    {
+        "negara": "Ghana",
+        "ibu_kota": "Accra",
+        "populasi": "24339838",
+        "luas": "239460.0"
+    },
+    {
+        "negara": "Gibraltar",
+        "ibu_kota": "Gibraltar",
+        "populasi": "27884",
+        "luas": "6.5"
+    },
+    {
+        "negara": "Greenland",
+        "ibu_kota": "Nuuk",
+        "populasi": "56375",
+        "luas": "2166086.0"
+    },
+    {
+        "negara": "Gambia",
+        "ibu_kota": "Bathurst",
+        "populasi": "1593256",
+        "luas": "11300.0"
+    },
+    {
+        "negara": "Guinea",
+        "ibu_kota": "Conakry",
+        "populasi": "10324025",
+        "luas": "245857.0"
+    },
+    {
+        "negara": "Guadeloupe",
+        "ibu_kota": "Basse-Terre",
+        "populasi": "443000",
+        "luas": "1780.0"
+    },
+    {
+        "negara": "Equatorial Guinea",
+        "ibu_kota": "Malabo",
+        "populasi": "1014999",
+        "luas": "28051.0"
+    },
+    {
+        "negara": "Greece",
+        "ibu_kota": "Athens",
+        "populasi": "11000000",
+        "luas": "131940.0"
+    },
+    {
+        "negara": "South Georgia and the South Sandwich Islands",
+        "ibu_kota": "Grytviken",
+        "populasi": "30",
+        "luas": "3903.0"
+    },
+    {
+        "negara": "Guatemala",
+        "ibu_kota": "Guatemala City",
+        "populasi": "13550440",
+        "luas": "108890.0"
+    },
+    {
+        "negara": "Guam",
+        "ibu_kota": "Hagåtña",
+        "populasi": "159358",
+        "luas": "549.0"
+    },
+    {
+        "negara": "Guinea-Bissau",
+        "ibu_kota": "Bissau",
+        "populasi": "1565126",
+        "luas": "36120.0"
+    },
+    {
+        "negara": "Guyana",
+        "ibu_kota": "Georgetown",
+        "populasi": "748486",
+        "luas": "214970.0"
+    },
+    {
+        "negara": "Hong Kong",
+        "ibu_kota": "Hong Kong",
+        "populasi": "6898686",
+        "luas": "1092.0"
+    },
+    {
+        "negara": "Heard Island and McDonald Islands",
+        "ibu_kota": "None",
+        "populasi": "0",
+        "luas": "412.0"
+    },
+    {
+        "negara": "Honduras",
+        "ibu_kota": "Tegucigalpa",
+        "populasi": "7989415",
+        "luas": "112090.0"
+    },
+    {
+        "negara": "Croatia",
+        "ibu_kota": "Zagreb",
+        "populasi": "4491000",
+        "luas": "56542.0"
+    },
+    {
+        "negara": "Haiti",
+        "ibu_kota": "Port-au-Prince",
+        "populasi": "9648924",
+        "luas": "27750.0"
+    },
+    {
+        "negara": "Hungary",
+        "ibu_kota": "Budapest",
+        "populasi": "9982000",
+        "luas": "93030.0"
+    },
+    {
+        "negara": "Indonesia",
+        "ibu_kota": "Jakarta",
+        "populasi": "242968342",
+        "luas": "1919440.0"
+    },
+    {
+        "negara": "Ireland",
+        "ibu_kota": "Dublin",
+        "populasi": "4622917",
+        "luas": "70280.0"
+    },
+    {
+        "negara": "Israel",
+        "ibu_kota": "None",
+        "populasi": "7353985",
+        "luas": "20770.0"
+    },
+    {
+        "negara": "Isle of Man",
+        "ibu_kota": "Douglas",
+        "populasi": "75049",
+        "luas": "572.0"
+    },
+    {
+        "negara": "India",
+        "ibu_kota": "New Delhi",
+        "populasi": "1173108018",
+        "luas": "3287590.0"
+    },
+    {
+        "negara": "British Indian Ocean Territory",
+        "ibu_kota": "None",
+        "populasi": "4000",
+        "luas": "60.0"
+    },
+    {
+        "negara": "Iraq",
+        "ibu_kota": "Baghdad",
+        "populasi": "29671605",
+        "luas": "437072.0"
+    },
+    {
+        "negara": "Iran",
+        "ibu_kota": "Tehran",
+        "populasi": "76923300",
+        "luas": "1648000.0"
+    },
+    {
+        "negara": "Iceland",
+        "ibu_kota": "Reykjavik",
+        "populasi": "308910",
+        "luas": "103000.0"
+    },
+    {
+        "negara": "Italy",
+        "ibu_kota": "Rome",
+        "populasi": "60340328",
+        "luas": "301230.0"
+    },
+    {
+        "negara": "Jersey",
+        "ibu_kota": "Saint Helier",
+        "populasi": "90812",
+        "luas": "116.0"
+    },
+    {
+        "negara": "Jamaica",
+        "ibu_kota": "Kingston",
+        "populasi": "2847232",
+        "luas": "10991.0"
+    },
+    {
+        "negara": "Jordan",
+        "ibu_kota": "Amman",
+        "populasi": "6407085",
+        "luas": "92300.0"
+    },
+    {
+        "negara": "Japan",
+        "ibu_kota": "Tokyo",
+        "populasi": "127288000",
+        "luas": "377835.0"
+    },
+    {
+        "negara": "Kenya",
+        "ibu_kota": "Nairobi",
+        "populasi": "40046566",
+        "luas": "582650.0"
+    },
+    {
+        "negara": "Kyrgyzstan",
+        "ibu_kota": "Bishkek",
+        "populasi": "5776500",
+        "luas": "198500.0"
+    },
+    {
+        "negara": "Cambodia",
+        "ibu_kota": "Phnom Penh",
+        "populasi": "14453680",
+        "luas": "181040.0"
+    },
+    {
+        "negara": "Kiribati",
+        "ibu_kota": "Tarawa",
+        "populasi": "92533",
+        "luas": "811.0"
+    },
+    {
+        "negara": "Comoros",
+        "ibu_kota": "Moroni",
+        "populasi": "773407",
+        "luas": "2170.0"
+    },
+    {
+        "negara": "Saint Kitts and Nevis",
+        "ibu_kota": "Basseterre",
+        "populasi": "51134",
+        "luas": "261.0"
+    },
+    {
+        "negara": "North Korea",
+        "ibu_kota": "Pyongyang",
+        "populasi": "22912177",
+        "luas": "120540.0"
+    },
+    {
+        "negara": "South Korea",
+        "ibu_kota": "Seoul",
+        "populasi": "48422644",
+        "luas": "98480.0"
+    },
+    {
+        "negara": "Kuwait",
+        "ibu_kota": "Kuwait City",
+        "populasi": "2789132",
+        "luas": "17820.0"
+    },
+    {
+        "negara": "Cayman Islands",
+        "ibu_kota": "George Town",
+        "populasi": "44270",
+        "luas": "262.0"
+    },
+    {
+        "negara": "Kazakhstan",
+        "ibu_kota": "Astana",
+        "populasi": "15340000",
+        "luas": "2717300.0"
+    },
+    {
+        "negara": "Laos",
+        "ibu_kota": "Vientiane",
+        "populasi": "6368162",
+        "luas": "236800.0"
+    },
+    {
+        "negara": "Lebanon",
+        "ibu_kota": "Beirut",
+        "populasi": "4125247",
+        "luas": "10400.0"
+    },
+    {
+        "negara": "Saint Lucia",
+        "ibu_kota": "Castries",
+        "populasi": "160922",
+        "luas": "616.0"
+    },
+    {
+        "negara": "Liechtenstein",
+        "ibu_kota": "Vaduz",
+        "populasi": "35000",
+        "luas": "160.0"
+    },
+    {
+        "negara": "Sri Lanka",
+        "ibu_kota": "Colombo",
+        "populasi": "21513990",
+        "luas": "65610.0"
+    },
+    {
+        "negara": "Liberia",
+        "ibu_kota": "Monrovia",
+        "populasi": "3685076",
+        "luas": "111370.0"
+    },
+    {
+        "negara": "Lesotho",
+        "ibu_kota": "Maseru",
+        "populasi": "1919552",
+        "luas": "30355.0"
+    },
+    {
+        "negara": "Lithuania",
+        "ibu_kota": "Vilnius",
+        "populasi": "2944459",
+        "luas": "65200.0"
+    },
+    {
+        "negara": "Luxembourg",
+        "ibu_kota": "Luxembourg",
+        "populasi": "497538",
+        "luas": "2586.0"
+    },
+    {
+        "negara": "Latvia",
+        "ibu_kota": "Riga",
+        "populasi": "2217969",
+        "luas": "64589.0"
+    },
+    {
+        "negara": "Libya",
+        "ibu_kota": "Tripoli",
+        "populasi": "6461454",
+        "luas": "1759540.0"
+    },
+    {
+        "negara": "Morocco",
+        "ibu_kota": "Rabat",
+        "populasi": "31627428",
+        "luas": "446550.0"
+    },
+    {
+        "negara": "Monaco",
+        "ibu_kota": "Monaco",
+        "populasi": "32965",
+        "luas": "1.95"
+    },
+    {
+        "negara": "Moldova",
+        "ibu_kota": "Chişinău",
+        "populasi": "4324000",
+        "luas": "33843.0"
+    },
+    {
+        "negara": "Montenegro",
+        "ibu_kota": "Podgorica",
+        "populasi": "666730",
+        "luas": "14026.0"
+    },
+    {
+        "negara": "Saint Martin",
+        "ibu_kota": "Marigot",
+        "populasi": "35925",
+        "luas": "53.0"
+    },
+    {
+        "negara": "Madagascar",
+        "ibu_kota": "Antananarivo",
+        "populasi": "21281844",
+        "luas": "587040.0"
+    },
+    {
+        "negara": "Marshall Islands",
+        "ibu_kota": "Majuro",
+        "populasi": "65859",
+        "luas": "181.3"
+    },
+    {
+        "negara": "Macedonia",
+        "ibu_kota": "Skopje",
+        "populasi": "2062294",
+        "luas": "25333.0"
+    },
+    {
+        "negara": "Mali",
+        "ibu_kota": "Bamako",
+        "populasi": "13796354",
+        "luas": "1240000.0"
+    },
+    {
+        "negara": "Myanmar [Burma]",
+        "ibu_kota": "Naypyitaw",
+        "populasi": "53414374",
+        "luas": "678500.0"
+    },
+    {
+        "negara": "Mongolia",
+        "ibu_kota": "Ulan Bator",
+        "populasi": "3086918",
+        "luas": "1565000.0"
+    },
+    {
+        "negara": "Macao",
+        "ibu_kota": "Macao",
+        "populasi": "449198",
+        "luas": "254.0"
+    },
+    {
+        "negara": "Northern Mariana Islands",
+        "ibu_kota": "Saipan",
+        "populasi": "53883",
+        "luas": "477.0"
+    },
+    {
+        "negara": "Martinique",
+        "ibu_kota": "Fort-de-France",
+        "populasi": "432900",
+        "luas": "1100.0"
+    },
+    {
+        "negara": "Mauritania",
+        "ibu_kota": "Nouakchott",
+        "populasi": "3205060",
+        "luas": "1030700.0"
+    },
+    {
+        "negara": "Montserrat",
+        "ibu_kota": "Plymouth",
+        "populasi": "9341",
+        "luas": "102.0"
+    },
+    {
+        "negara": "Malta",
+        "ibu_kota": "Valletta",
+        "populasi": "403000",
+        "luas": "316.0"
+    },
+    {
+        "negara": "Mauritius",
+        "ibu_kota": "Port Louis",
+        "populasi": "1294104",
+        "luas": "2040.0"
+    },
+    {
+        "negara": "Maldives",
+        "ibu_kota": "Malé",
+        "populasi": "395650",
+        "luas": "300.0"
+    },
+    {
+        "negara": "Malawi",
+        "ibu_kota": "Lilongwe",
+        "populasi": "15447500",
+        "luas": "118480.0"
+    },
+    {
+        "negara": "Mexico",
+        "ibu_kota": "Mexico City",
+        "populasi": "112468855",
+        "luas": "1972550.0"
+    },
+    {
+        "negara": "Malaysia",
+        "ibu_kota": "Kuala Lumpur",
+        "populasi": "28274729",
+        "luas": "329750.0"
+    },
+    {
+        "negara": "Mozambique",
+        "ibu_kota": "Maputo",
+        "populasi": "22061451",
+        "luas": "801590.0"
+    },
+    {
+        "negara": "Namibia",
+        "ibu_kota": "Windhoek",
+        "populasi": "2128471",
+        "luas": "825418.0"
+    },
+    {
+        "negara": "New Caledonia",
+        "ibu_kota": "Noumea",
+        "populasi": "216494",
+        "luas": "19060.0"
+    },
+    {
+        "negara": "Niger",
+        "ibu_kota": "Niamey",
+        "populasi": "15878271",
+        "luas": "1267000.0"
+    },
+    {
+        "negara": "Norfolk Island",
+        "ibu_kota": "Kingston",
+        "populasi": "1828",
+        "luas": "34.6"
+    },
+    {
+        "negara": "Nigeria",
+        "ibu_kota": "Abuja",
+        "populasi": "154000000",
+        "luas": "923768.0"
+    },
+    {
+        "negara": "Nicaragua",
+        "ibu_kota": "Managua",
+        "populasi": "5995928",
+        "luas": "129494.0"
+    },
+    {
+        "negara": "Netherlands",
+        "ibu_kota": "Amsterdam",
+        "populasi": "16645000",
+        "luas": "41526.0"
+    },
+    {
+        "negara": "Norway",
+        "ibu_kota": "Oslo",
+        "populasi": "5009150",
+        "luas": "324220.0"
+    },
+    {
+        "negara": "Nepal",
+        "ibu_kota": "Kathmandu",
+        "populasi": "28951852",
+        "luas": "140800.0"
+    },
+    {
+        "negara": "Nauru",
+        "ibu_kota": "Yaren",
+        "populasi": "10065",
+        "luas": "21.0"
+    },
+    {
+        "negara": "Niue",
+        "ibu_kota": "Alofi",
+        "populasi": "2166",
+        "luas": "260.0"
+    },
+    {
+        "negara": "New Zealand",
+        "ibu_kota": "Wellington",
+        "populasi": "4252277",
+        "luas": "268680.0"
+    },
+    {
+        "negara": "Oman",
+        "ibu_kota": "Muscat",
+        "populasi": "2967717",
+        "luas": "212460.0"
+    },
+    {
+        "negara": "Panama",
+        "ibu_kota": "Panama City",
+        "populasi": "3410676",
+        "luas": "78200.0"
+    },
+    {
+        "negara": "Peru",
+        "ibu_kota": "Lima",
+        "populasi": "29907003",
+        "luas": "1285220.0"
+    },
+    {
+        "negara": "French Polynesia",
+        "ibu_kota": "Papeete",
+        "populasi": "270485",
+        "luas": "4167.0"
+    },
+    {
+        "negara": "Papua New Guinea",
+        "ibu_kota": "Port Moresby",
+        "populasi": "6064515",
+        "luas": "462840.0"
+    },
+    {
+        "negara": "Philippines",
+        "ibu_kota": "Manila",
+        "populasi": "99900177",
+        "luas": "300000.0"
+    },
+    {
+        "negara": "Pakistan",
+        "ibu_kota": "Islamabad",
+        "populasi": "184404791",
+        "luas": "803940.0"
+    },
+    {
+        "negara": "Poland",
+        "ibu_kota": "Warsaw",
+        "populasi": "38500000",
+        "luas": "312685.0"
+    },
+    {
+        "negara": "Saint Pierre and Miquelon",
+        "ibu_kota": "Saint-Pierre",
+        "populasi": "7012",
+        "luas": "242.0"
+    },
+    {
+        "negara": "Pitcairn Islands",
+        "ibu_kota": "Adamstown",
+        "populasi": "46",
+        "luas": "47.0"
+    },
+    {
+        "negara": "Puerto Rico",
+        "ibu_kota": "San Juan",
+        "populasi": "3916632",
+        "luas": "9104.0"
+    },
+    {
+        "negara": "Palestine",
+        "ibu_kota": "None",
+        "populasi": "3800000",
+        "luas": "5970.0"
+    },
+    {
+        "negara": "Portugal",
+        "ibu_kota": "Lisbon",
+        "populasi": "10676000",
+        "luas": "92391.0"
+    },
+    {
+        "negara": "Palau",
+        "ibu_kota": "Melekeok",
+        "populasi": "19907",
+        "luas": "458.0"
+    },
+    {
+        "negara": "Paraguay",
+        "ibu_kota": "Asunción",
+        "populasi": "6375830",
+        "luas": "406750.0"
+    },
+    {
+        "negara": "Qatar",
+        "ibu_kota": "Doha",
+        "populasi": "840926",
+        "luas": "11437.0"
+    },
+    {
+        "negara": "Réunion",
+        "ibu_kota": "Saint-Denis",
+        "populasi": "776948",
+        "luas": "2517.0"
+    },
+    {
+        "negara": "Romania",
+        "ibu_kota": "Bucharest",
+        "populasi": "21959278",
+        "luas": "237500.0"
+    },
+    {
+        "negara": "Serbia",
+        "ibu_kota": "Belgrade",
+        "populasi": "7344847",
+        "luas": "88361.0"
+    },
+    {
+        "negara": "Russia",
+        "ibu_kota": "Moscow",
+        "populasi": "140702000",
+        "luas": "1.71E7"
+    },
+    {
+        "negara": "Rwanda",
+        "ibu_kota": "Kigali",
+        "populasi": "11055976",
+        "luas": "26338.0"
+    },
+    {
+        "negara": "Saudi Arabia",
+        "ibu_kota": "Riyadh",
+        "populasi": "25731776",
+        "luas": "1960582.0"
+    },
+    {
+        "negara": "Solomon Islands",
+        "ibu_kota": "Honiara",
+        "populasi": "559198",
+        "luas": "28450.0"
+    },
+    {
+        "negara": "Seychelles",
+        "ibu_kota": "Victoria",
+        "populasi": "88340",
+        "luas": "455.0"
+    },
+    {
+        "negara": "Sudan",
+        "ibu_kota": "Khartoum",
+        "populasi": "35000000",
+        "luas": "1861484.0"
+    },
+    {
+        "negara": "Sweden",
+        "ibu_kota": "Stockholm",
+        "populasi": "9828655",
+        "luas": "449964.0"
+    },
+    {
+        "negara": "Singapore",
+        "ibu_kota": "Singapore",
+        "populasi": "4701069",
+        "luas": "692.7"
+    },
+    {
+        "negara": "Saint Helena",
+        "ibu_kota": "Jamestown",
+        "populasi": "7460",
+        "luas": "410.0"
+    },
+    {
+        "negara": "Slovenia",
+        "ibu_kota": "Ljubljana",
+        "populasi": "2007000",
+        "luas": "20273.0"
+    },
+    {
+        "negara": "Svalbard and Jan Mayen",
+        "ibu_kota": "Longyearbyen",
+        "populasi": "2550",
+        "luas": "62049.0"
+    },
+    {
+        "negara": "Slovakia",
+        "ibu_kota": "Bratislava",
+        "populasi": "5455000",
+        "luas": "48845.0"
+    },
+    {
+        "negara": "Sierra Leone",
+        "ibu_kota": "Freetown",
+        "populasi": "5245695",
+        "luas": "71740.0"
+    },
+    {
+        "negara": "San Marino",
+        "ibu_kota": "San Marino",
+        "populasi": "31477",
+        "luas": "61.2"
+    },
+    {
+        "negara": "Senegal",
+        "ibu_kota": "Dakar",
+        "populasi": "12323252",
+        "luas": "196190.0"
+    },
+    {
+        "negara": "Somalia",
+        "ibu_kota": "Mogadishu",
+        "populasi": "10112453",
+        "luas": "637657.0"
+    },
+    {
+        "negara": "Suriname",
+        "ibu_kota": "Paramaribo",
+        "populasi": "492829",
+        "luas": "163270.0"
+    },
+    {
+        "negara": "South Sudan",
+        "ibu_kota": "Juba",
+        "populasi": "8260490",
+        "luas": "644329.0"
+    },
+    {
+        "negara": "São Tomé and Príncipe",
+        "ibu_kota": "São Tomé",
+        "populasi": "175808",
+        "luas": "1001.0"
+    },
+    {
+        "negara": "El Salvador",
+        "ibu_kota": "San Salvador",
+        "populasi": "6052064",
+        "luas": "21040.0"
+    },
+    {
+        "negara": "Sint Maarten",
+        "ibu_kota": "Philipsburg",
+        "populasi": "37429",
+        "luas": "21.0"
+    },
+    {
+        "negara": "Syria",
+        "ibu_kota": "Damascus",
+        "populasi": "22198110",
+        "luas": "185180.0"
+    },
+    {
+        "negara": "Swaziland",
+        "ibu_kota": "Mbabane",
+        "populasi": "1354051",
+        "luas": "17363.0"
+    },
+    {
+        "negara": "Turks and Caicos Islands",
+        "ibu_kota": "Cockburn Town",
+        "populasi": "20556",
+        "luas": "430.0"
+    },
+    {
+        "negara": "Chad",
+        "ibu_kota": "N'Djamena",
+        "populasi": "10543464",
+        "luas": "1284000.0"
+    },
+    {
+        "negara": "French Southern Territories",
+        "ibu_kota": "Port-aux-Français",
+        "populasi": "140",
+        "luas": "7829.0"
+    },
+    {
+        "negara": "Togo",
+        "ibu_kota": "Lomé",
+        "populasi": "6587239",
+        "luas": "56785.0"
+    },
+    {
+        "negara": "Thailand",
+        "ibu_kota": "Bangkok",
+        "populasi": "67089500",
+        "luas": "514000.0"
+    },
+    {
+        "negara": "Tajikistan",
+        "ibu_kota": "Dushanbe",
+        "populasi": "7487489",
+        "luas": "143100.0"
+    },
+    {
+        "negara": "Tokelau",
+        "ibu_kota": "None",
+        "populasi": "1466",
+        "luas": "10.0"
+    },
+    {
+        "negara": "East Timor",
+        "ibu_kota": "Dili",
+        "populasi": "1154625",
+        "luas": "15007.0"
+    },
+    {
+        "negara": "Turkmenistan",
+        "ibu_kota": "Ashgabat",
+        "populasi": "4940916",
+        "luas": "488100.0"
+    },
+    {
+        "negara": "Tunisia",
+        "ibu_kota": "Tunis",
+        "populasi": "10589025",
+        "luas": "163610.0"
+    },
+    {
+        "negara": "Tonga",
+        "ibu_kota": "Nuku'alofa",
+        "populasi": "122580",
+        "luas": "748.0"
+    },
+    {
+        "negara": "Turkey",
+        "ibu_kota": "Ankara",
+        "populasi": "77804122",
+        "luas": "780580.0"
+    },
+    {
+        "negara": "Trinidad and Tobago",
+        "ibu_kota": "Port of Spain",
+        "populasi": "1228691",
+        "luas": "5128.0"
+    },
+    {
+        "negara": "Tuvalu",
+        "ibu_kota": "Funafuti",
+        "populasi": "10472",
+        "luas": "26.0"
+    },
+    {
+        "negara": "Taiwan",
+        "ibu_kota": "Taipei",
+        "populasi": "22894384",
+        "luas": "35980.0"
+    },
+    {
+        "negara": "Tanzania",
+        "ibu_kota": "Dodoma",
+        "populasi": "41892895",
+        "luas": "945087.0"
+    },
+    {
+        "negara": "Ukraine",
+        "ibu_kota": "Kiev",
+        "populasi": "45415596",
+        "luas": "603700.0"
+    },
+    {
+        "negara": "Uganda",
+        "ibu_kota": "Kampala",
+        "populasi": "33398682",
+        "luas": "236040.0"
+    },
+    {
+        "negara": "U.S. Minor Outlying Islands",
+        "ibu_kota": "None",
+        "populasi": "0",
+        "luas": "0.0"
+    },
+    {
+        "negara": "United States",
+        "ibu_kota": "Washington",
+        "populasi": "310232863",
+        "luas": "9629091.0"
+    },
+    {
+        "negara": "Uruguay",
+        "ibu_kota": "Montevideo",
+        "populasi": "3477000",
+        "luas": "176220.0"
+    },
+    {
+        "negara": "Uzbekistan",
+        "ibu_kota": "Tashkent",
+        "populasi": "27865738",
+        "luas": "447400.0"
+    },
+    {
+        "negara": "Vatican City",
+        "ibu_kota": "Vatican City",
+        "populasi": "921",
+        "luas": "0.44"
+    },
+    {
+        "negara": "Saint Vincent and the Grenadines",
+        "ibu_kota": "Kingstown",
+        "populasi": "104217",
+        "luas": "389.0"
+    },
+    {
+        "negara": "Venezuela",
+        "ibu_kota": "Caracas",
+        "populasi": "27223228",
+        "luas": "912050.0"
+    },
+    {
+        "negara": "British Virgin Islands",
+        "ibu_kota": "Road Town",
+        "populasi": "21730",
+        "luas": "153.0"
+    },
+    {
+        "negara": "U.S. Virgin Islands",
+        "ibu_kota": "Charlotte Amalie",
+        "populasi": "108708",
+        "luas": "352.0"
+    },
+    {
+        "negara": "Vietnam",
+        "ibu_kota": "Hanoi",
+        "populasi": "89571130",
+        "luas": "329560.0"
+    },
+    {
+        "negara": "Vanuatu",
+        "ibu_kota": "Port Vila",
+        "populasi": "221552",
+        "luas": "12200.0"
+    },
+    {
+        "negara": "Wallis and Futuna",
+        "ibu_kota": "Mata-Utu",
+        "populasi": "16025",
+        "luas": "274.0"
+    },
+    {
+        "negara": "Samoa",
+        "ibu_kota": "Apia",
+        "populasi": "192001",
+        "luas": "2944.0"
+    },
+    {
+        "negara": "Kosovo",
+        "ibu_kota": "Pristina",
+        "populasi": "1800000",
+        "luas": "10908.0"
+    },
+    {
+        "negara": "Yemen",
+        "ibu_kota": "Sanaa",
+        "populasi": "23495361",
+        "luas": "527970.0"
+    },
+    {
+        "negara": "Mayotte",
+        "ibu_kota": "Mamoudzou",
+        "populasi": "159042",
+        "luas": "374.0"
+    },
+    {
+        "negara": "South Africa",
+        "ibu_kota": "Pretoria",
+        "populasi": "49000000",
+        "luas": "1219912.0"
+    },
+    {
+        "negara": "Zambia",
+        "ibu_kota": "Lusaka",
+        "populasi": "13460305",
+        "luas": "752614.0"
+    },
+    {
+        "negara": "Zimbabwe",
+        "ibu_kota": "Harare",
+        "populasi": "11651858",
+        "luas": "390580.0"
+    }
+]
